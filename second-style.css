@@ -23,7 +23,7 @@ html {
 	display: flex;
 	max-width: 100%;
 	height: 330px;
-	background-image: url(/tiger-small.jpg);
+	background-image: url(tiger-small.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -122,13 +122,13 @@ html {
 	transition: 1.5s;
 }
 .second-animal-group {
-	background-image: url(/gorilla.jpg);
+	background-image: url(gorilla.jpg);
 }
 .third-animal-group {
-	background-image: url(/howk.jpg);
+	background-image: url(howk.jpg);
 }
 .fourth-animal-group {
-	background-image: url(/gepard.jpg);
+	background-image: url(gepard.jpg);
 	background-position: top;
 }
 
@@ -144,7 +144,7 @@ html {
 @media (min-width: 768px) {
 	.hero-bg {
 		justify-content: center;
-		background-image: url(/tiger-big.jpg)
+		background-image: url(tiger-big.jpg)
 		height: 80vh;
 		background-position: center;
 	}
