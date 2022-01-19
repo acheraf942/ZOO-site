@@ -37,7 +37,7 @@ p {
 	display: flex;
 	max-width: 100%;
 	height: 330px;
-	background-image: url(/tiger-small.jpg);
+	background-image: url(tiger-small.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -127,7 +127,7 @@ p {
 	position: relative;
 	justify-content: center;
 	align-items: center;
-	background-image: url(/parrot.jpg);
+	background-image: url(parrot.jpg);
 	height: 350px;
 	margin-bottom: 2rem;
 	background-size: cover;
@@ -138,13 +138,13 @@ p {
 	transition: 1.5s;
 }
 .second-animal-group {
-	background-image: url(/gorilla.jpg);
+	background-image: url(gorilla.jpg);
 }
 .third-animal-group {
-	background-image: url(/howk.jpg);
+	background-image: url(howk.jpg);
 }
 .fourth-animal-group {
-	background-image: url(/gepard.jpg);
+	background-image: url(gepard.jpg);
 	background-position: top;
 }
 
@@ -165,7 +165,7 @@ p {
 .cooperation-baner {
 	max-width: 100%;
 	height: 400px;
-	background-image: url(/cooperation-small.jpg);
+	background-image: url(cooperation-small.jpg);
 	border-radius: 20px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -179,7 +179,7 @@ p {
 @media (min-width: 768px) {
 	.hero-bg {
 		justify-content: center;
-		background-image: url(/tiger-big.jpg);
+		background-image: url(tiger-big.jpg);
 		height: 80vh;
 		background-position: center;
 	}
